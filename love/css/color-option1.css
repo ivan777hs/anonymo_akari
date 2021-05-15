@@ -1,0 +1,131 @@
+/*=== Text color ===*/
+a,
+a:hover, a:focus, a:active,
+.navbar-nav.site_nav .nav-item.active a.nav-link,
+.navbar-nav.site_nav .nav-item:hover a.nav-link,
+.navbar-nav.site_nav .nav-item .dropdown-menu li a:hover,
+.navbar-nav.site_nav .nav-item:last-child a.nav-link:hover,
+.list-style-2 li i,
+.social-links a:hover i,
+.card-style-01 .card-body .time .author,
+.footer-section .couples,
+.media-style-05 .media-body .social-links a:hover i,
+.card-style-01 .card-body a:hover,
+.card-style-4 .icon i,
+.list-style-1 li a:hover,
+.media-style-06 .media-body .list-inline .list-inline-item a i,
+.list-style-3 li a:hover,
+.media-style-09 .media-body .reply,
+.table th, .table td,
+i.demo-icon.icon-alpona,
+.copyright a:hover,
+.carousel-style-01 .single-item a:hover,
+.carousel-style-01 .single-item .time .author,
+.btn-outline-primary,
+.list-style-1 li a.active {
+  color: #67ccac;
+}
+
+.btn-primary:hover,
+.text-primary,
+.selectOptions .sbOptions a:hover,
+.copyright a:hover {
+  color: #67ccac !important;
+}
+
+/*=== Background color ===*/
+::-moz-selection {
+  background-color: #67ccac;
+}
+::selection {
+  background-color: #67ccac;
+}
+
+::-moz-selection {
+  background-color: #67ccac;
+}
+
+.btn-primary,
+.btn-outline-secondary:hover,
+.owl-nav .owl-prev:hover,
+.owl-nav .owl-next:hover,
+.owl-dots .owl-dot.active span,
+.owl-dots .owl-dot:hover span,
+.swiper-slider-01 .swiper-button-prev:hover,
+.swiper-slider-01 .swiper-button-next:hover,
+.checkbox-custom:checked + .checkbox-custom-label:before,
+#brands .owl-dots .owl-dot.active span,
+#brands .owl-dots .owl-dot:hover span,
+.btn-social:hover,
+.gallery-section ul#filters li.active a,
+.gallery-section ul#filters li:hover a,
+.pagination .page-item.active a.page-link,
+.pagination .page-item:hover a.page-link,
+.form-style-2 .btn-search,
+.accordion .card-header [data-toggle=collapse],
+.count-down.count-down-primary .table-cell .tab-val,
+.radio-custom:checked + .radio-custom-label:before,
+.progress-bar,
+.nav-tabs .nav-item .nav-link.active:before,
+.nav-tabs.nav-pills .nav-item .nav-link.active,
+.carousel-style-05 .owl-nav .owl-prev:hover,
+.carousel-style-05 .owl-nav .owl-next:hover,
+.sk-folding-cube .sk-cube:before {
+  background-color: #67ccac;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus,
+.btn-outline-primary.active,
+.btn-outline-primary:active {
+  background-color: #67ccac !important;
+}
+
+.col-divider:after {
+  background-color: rgba(103, 204, 172, 0.3);
+}
+
+/*=== Border color ===*/
+.btn-primary,
+.btn-outline-secondary:hover,
+.owl-nav .owl-prev:hover,
+.owl-nav .owl-next:hover,
+.owl-dots .owl-dot.active span,
+.owl-dots .owl-dot:hover span,
+.carousel-style-03 .owl-dots .owl-dot.active span,
+.carousel-style-03 .owl-dots .owl-dot:hover span,
+.checkbox-custom:checked + .checkbox-custom-label:before,
+#brands .owl-dots .owl-dot.active span,
+#brands .owl-dots .owl-dot:hover span,
+.accordion .card-header [data-toggle=collapse],
+.radio-custom:checked + .radio-custom-label:before,
+.nav-tabs.nav-pills .nav-item .nav-link.active,
+.btn-outline-primary {
+  border-color: #67ccac;
+}
+
+.btn-primary:hover,
+.btn-outline-primary:hover,
+.btn-outline-primary:focus,
+.btn-outline-primary.active,
+.btn-outline-primary:active {
+  border-color: #67ccac !important;
+}
+
+.media-style-04 .left-image img {
+  border-color: rgba(103, 204, 172, 0.3);
+}
+
+/*=== SVG color ===*/
+.logo-fill-primary {
+  fill: #67ccac;
+}
+
+.heart-fill {
+  fill: rgba(103, 204, 172, 0.9);
+}
+
+.media-style-02 .left-icon .sm-heart-stroke,
+.media-style-02 .right-icon .sm-heart-stroke {
+  stroke: rgba(103, 204, 172, 0.3);
+}
